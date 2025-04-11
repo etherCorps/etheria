@@ -3,10 +3,9 @@
     import NavbarHeader from "$lib/components/extended-shadcn/nav-bar-header.svelte";
     import * as Sidebar from "$lib/components/shadcn/sidebar";
     import { Toaster } from "$lib/components/shadcn/sonner";
-    import * as Card from "$lib/components/shadcn/card"
-    import FallbackOnError from "$lib/components/ui/running-services/fallback-on-error.svelte"
     import { ModeWatcher } from 'mode-watcher';
     import '../app.css';
+    // import '../tangerine.css'
     import type {LayoutProps} from "./$types";
     let {data, children}: LayoutProps = $props()
 </script>

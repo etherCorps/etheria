@@ -1,7 +1,15 @@
-# Tauri + SvelteKit + TypeScript
+# Docker client
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+## Stack
+- Tauri
+- SvelteKit
+- TypeScript
+- Tailwind CSS
+- Colima
 
-## Recommended IDE Setup
+## TODO
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+- Work on readme
+- Work on docs
+- Add tests
+- Add more examples
